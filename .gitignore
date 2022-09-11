@@ -1,0 +1,6 @@
+env
+__pycache__
+data/login.txt
+chrome-data
+data/*
+data.rar
